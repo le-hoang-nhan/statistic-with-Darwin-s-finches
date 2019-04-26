@@ -3,3 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/statistic-with-Darwin-s-finche
 
 # statistic-with-Darwin-s-finches
  perform the two key tasks in statistical inference, parameter estimation and hypothesis testing
+
+hypothesis testing with Darwin's finches data
+
+perform statistical inference, parameter estimation and hypothesis testing (swarmplot, ECDF, bootstrap replicates, hypothesis test, corrcoef ...)
