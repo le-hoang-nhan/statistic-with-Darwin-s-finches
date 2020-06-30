@@ -3,7 +3,7 @@ https://nbviewer.jupyter.org/github/le-hoang-nhan/statistic-with-Darwin-s-finche
 
 See my presentation PowerPoint here: 
 Statistic with Darwin's finches
-https://studentiunitnit-my.sharepoint.com/:p:/g/personal/hoangnhan_le_studenti_unitn_it/EUsAIl7zUVdJsY5gTAXvVkcBKuVo7iqiAE1p0SjNK9Q_rA?e=zvTgtf
+https://drive.google.com/file/d/1mHcK0FWcYWbV-1PfNUeTk8J1rEyh77KK/view?usp=sharing
 
 # statistic-with-Darwin-s-finches
  perform the two key tasks in statistical inference, parameter estimation and hypothesis testing
